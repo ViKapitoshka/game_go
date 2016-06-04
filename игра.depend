@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1465026417 source:c:\users\Виктория\desktop\игра\main.cpp
+	<iostream>
+	<fstream>
+	"func.h"
+
+1465027284 c:\users\Виктория\desktop\игра\func.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"error.h"
+
+1465026942 c:\users\Виктория\desktop\игра\error.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
